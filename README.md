@@ -12,7 +12,18 @@
 # [高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 # 💥
+# 實作題
 - [ ] TO DO list
 - [x] 1
 - [ ] 2
 - [x] 3
+```python
+str="This is a String."
+print(str)
+```
+
+```javascript
+var s="This is JavaScript"
+alter(s)
+```
+***   
