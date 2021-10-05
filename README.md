@@ -14,9 +14,18 @@
 # 💥
 # 實作題
 - [ ] TO DO list
-- [x] 1
-- [ ] 2
-- [x] 3
+- [x] CH1
+- [ ] CH2
+- [x] CH3
+***
+Emphasis, aka *italics*, with *asterisks* or *underscores*.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with asterisks and underscores.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+***
 ```python
 str="This is a String."
 print(str)
@@ -27,3 +36,15 @@ var s="This is JavaScript"
 alter(s)
 ```
 ***   
+Table         | Are            | Cool   |
+:-------------|:--------------:|-------:|
+Col3 is       | right-aligned  |$1600   |
+Col2 is       | centered       |$12     |
+zebra stripes | are neat       |$1      |
+
+
+Markdown   | Less     | Pretty    |
+:----------|:-------- |---------  |
+*Still*    | `renders`|**nicely** |
+1          | 2        |3          |
+***
